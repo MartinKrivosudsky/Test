@@ -1,8 +1,8 @@
-commit: 6a874a24aa353ef84e6ab2f1b4b102447b654271
-tag: master-20160511-151041
-deploy-date: 2016-05-16 11:14:38
+commit: 4677308039a56bf1d68cbebdbb6b4f7c0c203bee
+tag: master-20160516-111527
+deploy-date: 2016-05-16 11:17:39
 deployed-from: milos-PC
 deployed-by: martin
 
-Aborted rollout, returned to master-20160511-151041
+Aborted rollout, returned to master-20160516-111527
 
