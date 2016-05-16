@@ -1,8 +1,8 @@
-commit: 3897d5ab2b0497e288b59feedf2d3f4081c0b414
-tag: tagprefix-20160511-150116
-deploy-date: 2016-05-11 15:09:37
-deployed-from: localhost.localdomain
-deployed-by: mkrivosudsky
+commit: 6a874a24aa353ef84e6ab2f1b4b102447b654271
+tag: master-20160511-151041
+deploy-date: 2016-05-16 11:14:38
+deployed-from: milos-PC
+deployed-by: martin
 
-Aborted rollout, returned to tagprefix-20160511-150116
+Aborted rollout, returned to master-20160511-151041
 
